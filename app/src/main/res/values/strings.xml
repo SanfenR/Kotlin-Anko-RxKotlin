@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kotlin-Anko-RxKotlin</string>
+    <string name="edit_phone">输入手机号</string>
+    <string name="edit_captcha">输入验证码</string>
+    <string name="user_agreement">《用户协议》</string>
+    <string name="login">登录</string>
+</resources>
